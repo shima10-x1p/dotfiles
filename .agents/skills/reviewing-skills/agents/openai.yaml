@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Compliance Reviewer"
+  short_description: "Review skills against best practices"
+  default_prompt: "Use $reviewing-skills to review this skill for best-practice compliance and propose concrete fixes."
