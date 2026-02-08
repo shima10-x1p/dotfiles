@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Trace Recorder"
+  short_description: "Create and validate Agent Trace JSON trace records"
+  default_prompt: "Use $agent-trace-record to build a valid Agent Trace JSON record from code changes and conversation metadata."
