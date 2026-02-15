@@ -1,3 +1,3 @@
-# agent_files
+# dotfiles
 
 コーディングエージェント向けのファイル集
