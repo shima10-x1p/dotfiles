@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Task Router"
+  short_description: "Route coding tasks to the right model"
+  default_prompt: "Use $model-task-router to decide which model should handle this development task."
