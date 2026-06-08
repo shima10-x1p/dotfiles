@@ -1,0 +1,4 @@
+interface:
+  display_name: "Split Agent Tasks"
+  short_description: "要件をエージェント実装向けのTASK形式へ分割します。"
+  default_prompt: "要件や設計メモを、エージェントに渡せるタスク一覧へ分割してください。"
